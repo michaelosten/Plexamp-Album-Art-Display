@@ -3,3 +3,4 @@ I bought a 7" HDMI monitor ($33 on Amazon) and attached it to my plexamp headles
 Every 15 seconds it queries the plex server and if something is playing, displays the cover art.  If not, it's blank.
 The script assumes that you know Linux to set the environment up, but its really as simple as running xserve without a window manager and getting everything to start at boot.  
 I can't really comment on how secure it all is, but it's ok for an hour of my time.
+![IMG_2056](https://github.com/user-attachments/assets/0b669635-4658-4599-8b55-83bd5a78c232)
